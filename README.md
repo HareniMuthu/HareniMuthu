@@ -56,14 +56,6 @@
 
 ---
 
-## 🧠 DSA (Data Structures & Algorithms):
-
-<div align="center">
-  <img src="https://github.com/HareniMuthu/HareniMuthu/blob/main/dsa-image.png?raw=true" width="60%" alt="DSA Image" />
-</div>
-
----
-
 ## 🐍 GitHub Contribution Snake:
 
 <picture>
