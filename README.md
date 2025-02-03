@@ -1,7 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  ![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/55c73b73-9786-4154-bc3c-9008d655d5f1)
-
+  <img src="https://github.com/user-attachments/assets/55c73b73-9786-4154-bc3c-9008d655d5f1" width="100%" alt="Banner">
 </div>
 
 ---
