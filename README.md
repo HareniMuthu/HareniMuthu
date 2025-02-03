@@ -78,12 +78,6 @@
 
 ---
 
-## 💬 Fun Fact:
-
-> "I once coded an entire project in one night while listening to lo-fi beats. Coffee and creativity make a great combo! ☕✨"
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HareniMuthu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
