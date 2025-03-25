@@ -65,19 +65,6 @@
 
 ---
 
-## 🎨 Featured Projects:
-
-<div align="center">
-  <a href="https://github.com/HareniMuthu/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HareniMuthu&repo=Project1&theme=radical" />
-  </a>
-  <a href="https://github.com/HareniMuthu/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HareniMuthu&repo=Project2&theme=radical" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HareniMuthu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
