@@ -17,13 +17,14 @@
 
 ## 🌟 About Me
 <p align="justify">
-I'm <strong>Hareni</strong>, passionate about transforming ideas into elegant code solutions. I thrive on creative problem-solving and love contributing to open-source projects that make an impact.
+I'm <strong>Hareni</strong>, currently pursuing <strong>B.Tech in AI & ML</strong> in India. Passionate about transforming ideas into elegant code solutions. I thrive on creative problem-solving and love contributing to open-source projects that make an impact.
 </p>
 <ul>
-  <li>🎯 <strong>Mission:</strong> Turning innovative concepts into reality.</li>
-  <li>💡 <strong>Creative Thinker:</strong> Always brainstorming new solutions.</li>
-  <li>🧠 <strong>Problem Solver:</strong> Crafting elegant algorithms for complex challenges.</li>
-  <li>🔥 <strong>Open Source Enthusiast:</strong> Contributing to meaningful projects.</li>
+  <li>🎓 Studying AI, Machine Learning, and Data Science fundamentals.</li>
+  <li>🎯 Mission: Turning innovative concepts into reality.</li>
+  <li>💡 Creative Thinker: Always brainstorming new solutions.</li>
+  <li>🧠 Problem Solver: Crafting algorithms for complex challenges.</li>
+  <li>🔥 Open Source Enthusiast: Contributing to meaningful projects.</li>
 </ul>
 
 <p align="center">➖➖➖➖➖➖➖</p>
@@ -94,19 +95,19 @@ I'm <strong>Hareni</strong>, passionate about transforming ideas into elegant co
       <td align="center"><strong>Web & Frameworks</strong><br/>
         <img src="https://skillicons.dev/icons?i=html,css,nextjs,flask,vercel" alt="Web & Frameworks" />
       </td>
-      <td align="center"><strong>Data Science</strong><br/>
-        <img src="https://skillicons.dev/icons?i=numpy,pandas" alt="Data Science" />
+      <td align="center"><strong>AI & ML</strong><br/>
+        <img src="https://skillicons.dev/icons?i=opencv,tensorflow,torch,scikitlearn" alt="AI & ML" />
       </td>
     </tr>
     <tr>
+      <td align="center"><strong>Data Science</strong><br/>
+        <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn" alt="Data Science" />
+      </td>
       <td align="center"><strong>Databases</strong><br/>
         <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
       </td>
-      <td align="center"><strong>DevOps</strong><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,kali" alt="DevOps" />
-      </td>
-      <td align="center"><strong>Other Tools</strong><br/>
-        <img src="https://skillicons.dev/icons?i=latex,matlab" alt="Other Tools" />
+      <td align="center"><strong>DevOps & Tools</strong><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,kali" alt="DevOps & Tools" />
       </td>
     </tr>
   </table>
@@ -127,9 +128,7 @@ I'm <strong>Hareni</strong>, passionate about transforming ideas into elegant co
 <p align="center">
   <a href="https://linkedin.com/in/harenimuthu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/HareniMuth37579" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <a href="mailto:harenimuthu18@gmail.com?subject=Hello%20HareniMuthu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
-  <a href="https://github.com/HareniMuthu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-</p>
+  <a href="mailto:harenimuthu18@gmail.com?subject=Hello%20HareniMuthu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" /></p>
 
 ---
 
@@ -143,6 +142,6 @@ I'm <strong>Hareni</strong>, passionate about transforming ideas into elegant co
 
 ---
 
-<p align="center">Made by <strong>HareniMuthu</strong> | © 2025</p>
+<p align="center">Made with ❤️ & <img src="https://img.shields.io/badge/Language-Markdown-green" alt="Markdown" /> by <strong>HareniMuthu</strong> | © 2025</p>
 ```
 
