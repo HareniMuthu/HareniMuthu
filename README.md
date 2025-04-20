@@ -166,6 +166,6 @@ I'm <strong>Hareni</strong>, currently pursuing <strong>B.Tech in AI & ML</stron
 
 ---
 
-<p align="center">Made with ❤️ & <img src="https://img.shields.io/badge/Language-Markdown-green" alt="Markdown" /> by <strong>HareniMuthu</strong> | © 2025</p>
+<p align="center">Made by <strong>HareniMuthu</strong> | © 2025</p>
 ```
 
