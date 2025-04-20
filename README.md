@@ -117,8 +117,21 @@ Hi, I’m <strong>Hareni Muthu</strong>—a passionate coder turning ideas into 
 
 ## 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HareniMuthu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="140" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HareniMuthu&layout=compact&langs_count=5&theme=radical" height="140" alt="Top Languages" />
+  <table align="center" cellspacing="20">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=HareniMuthu&show_icons=true&theme=radical&count_private=true" width="300" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HareniMuthu&layout=compact&langs_count=5&theme=radical" width="260" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://activity-graph.herokuapp.com/graph?username=HareniMuthu&theme=radical" width="580" alt="Contribution Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -152,3 +165,4 @@ Hi, I’m <strong>Hareni Muthu</strong>—a passionate coder turning ideas into 
 
 <p align="center">Made with ❤️ & <img src="https://img.shields.io/badge/Language-Markdown-green" alt="Markdown" /> by <strong>Hareni Muthu</strong> | © 2025</p>
 ```
+
