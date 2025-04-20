@@ -167,5 +167,3 @@ I'm <strong>Hareni</strong>, currently pursuing <strong>B.Tech in AI & ML</stron
 ---
 
 <p align="center">Made by <strong>HareniMuthu</strong> | © 2025</p>
-```
-
