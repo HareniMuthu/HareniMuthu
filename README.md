@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c2f71e6b-a021-4d70-8a79-9cb32b1ce428" width="100%" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/acb1608b-965f-4243-ae3d-10549b73ed87" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">✨ HareniMuthu ✨</h1>
