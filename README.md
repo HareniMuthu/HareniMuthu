@@ -143,6 +143,6 @@ I'm <strong>Hareni</strong>, passionate about transforming ideas into elegant co
 
 ---
 
-<p align="center">Made with ❤️ & <img src="https://img.shields.io/badge/Language-Markdown-green" alt="Markdown" /> by <strong>HareniMuthu</strong> | © 2025</p>
+<p align="center">Made by <strong>HareniMuthu</strong> | © 2025</p>
 ```
 
