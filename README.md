@@ -87,48 +87,54 @@ I'm <strong>Hareni</strong>, currently pursuing <strong>B.Tech in AI & ML</stron
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Languages</strong><br/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/python/python-original.svg" height="40" alt="python" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/c/c-original.svg" height="40" alt="c" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/java/java-original.svg" height="40" alt="java" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-      </td>
-      <td align="center"><strong>Web & Frameworks</strong><br/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/html5/html5-original.svg" height="40" alt="html5" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/css3/css3-original.svg" height="40" alt="css3" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/flask/flask-original.svg" height="40" alt="flask" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/vercel/vercel.svg" height="40" alt="vercel" />
-      </td>
-      <td align="center"><strong>AI & ML</strong><br/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Data Science</strong><br/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/seaborn/seaborn-original.svg" height="40" alt="seaborn" />
-      </td>
-      <td align="center"><strong>Databases</strong><br/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-      </td>
-      <td align="center"><strong>DevOps & Tools</strong><br/>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/git/git-original.svg" height="40" alt="git" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/github/github-original.svg" height="40" alt="github" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/docker/docker-original.svg" height="40" alt="docker" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/linux/linux-original.svg" height="40" alt="linux" />
-      </td>
-    </tr>
-  </table>
+  <!-- Languages -->
+  <p>
+    <strong>Languages</strong><br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </p>
+  <!-- Web & Frameworks -->
+  <p>
+    <strong>Web & Frameworks</strong><br/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </p>
+  <!-- AI & ML -->
+  <p>
+    <strong>AI & ML</strong><br/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  </p>
+  <!-- Data Science -->
+  <p>
+    <strong>Data Science</strong><br/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" />
+    <img src="https://img.shields.io/badge/Seaborn-4C77B3?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" />
+  </p>
+  <!-- Databases -->
+  <p>
+    <strong>Databases</strong><br/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </p>
+  <!-- DevOps & Tools -->
+  <p>
+    <strong>DevOps & Tools</strong><br/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </p>
 </div>
 
 ---
