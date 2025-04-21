@@ -7,7 +7,7 @@
 <p align="center"><em>💻 Creative Coder | 🌟 Idea Machine | 🚀 Problem Solver</em></p>
 
 <div align="center">
-  <a href="#about-me"><img src="https://img.shields.io/badge/About-👩‍💻-brightgreen" alt="About Me" /></a>
+  <a href="#about-me"><img src="https://img.shields.io/badge/About-👩‍💻-brightgreen" alt=" 🌟 About Me" /></a>
   <a href="#projects"><img src="https://img.shields.io/badge/Projects-📂-blue" alt="Projects" /></a>
   <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-🛠️-orange" alt="Tech Stack" /></a>
   <a href="#connect-with-me"><img src="https://img.shields.io/badge/Connect-📫-red" alt="Connect" /></a>
